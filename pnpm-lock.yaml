@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   autor:
-    specifier: 0.550.0
-    version: 0.550.0
+    specifier: 0.560.0
+    version: 0.560.0
 
 devDependencies:
   '@types/node':
@@ -23,8 +23,8 @@ packages:
     resolution: {integrity: sha512-JIzsAvJeA/5iY6Y/OxZbv1lUcc8dNSE77lb2gnBH+/PJ3lFR1Ccvgwl5JWnHAkNHcRsT0TbpVOsiMKZ1F/yyJg==}
     dev: true
 
-  /autor@0.550.0:
-    resolution: {integrity: sha512-cpu+h85bk13zPrPg9JYK4x24QAyccUD71EWdlmEgSc4HjEnLEgAbATULXoQj+9aO2JThfD35UXTp6/bl/z5T1w==}
+  /autor@0.560.0:
+    resolution: {integrity: sha512-gLvAomseQMcTgjp9KHhNy3LpEWXloUnH/oKUwsXteX8Q6qd2rbMTXvEV+k3DHPV826c7eFkn2/uWANWU0Ff+1A==}
     dev: false
 
   /typescript@5.1.6:
