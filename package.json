@@ -7,10 +7,10 @@
     "dev": "tsc -w"
   },
   "dependencies": {
-    "autor": "^1.1000.0"
+    "autor": "^1.1100.0"
   },
   "devDependencies": {
-    "@types/node": "^20.4.1",
+    "@types/node": "^20.4.4",
     "typescript": "^5.1.6"
   }
 }
